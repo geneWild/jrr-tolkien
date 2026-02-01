@@ -1,1 +1,4 @@
-# jrr-tolkien
+# J.R.R. Tolkien
+
+Available:
+- The Silmarillion
